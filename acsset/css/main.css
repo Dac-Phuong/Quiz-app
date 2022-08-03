@@ -23,8 +23,9 @@ body {
   overflow: hidden;
 }
 .time-width {
-  height: 3px;
-  background: #11c7da;
+    height: 14px;
+    border-radius: 7px;
+    background: #112ada63;
 }
 .quiz-header {
   padding: 20px;
@@ -67,9 +68,7 @@ button {
   font-weight: bold;
 }
 
-button:hover {
-  background-color: #732d91;
-}
+
 
 button:focus {
   outline: none;
